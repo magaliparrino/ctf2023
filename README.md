@@ -406,3 +406,13 @@ json.loads('{"x": 1, "x": 2, "x": 3}')
 159 | What is the function name in the `requests` package to make an HTTP POST request?
 
 160 | What is the name of the argument for providing an HTML payload in an HTTP POST request in the `requests` library?
+
+## Numpy and Pandas
+
+Questions 161 - 200 are in the numpy and pandas notebooks.
+
+161 - 180 | numpy.ipynb
+
+181 - 195 | pandas_titanic.ipynb
+
+196 - 200 | pandas_air_quality.ipynb
